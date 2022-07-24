@@ -11,9 +11,12 @@ drop these directories into app , and rename as src folder.
   : W806 pinout :
 
 Gnd	Gnd
+
  PB5	 PB4
+ 
  PB6	PB27
- PB7	 PB3
+
+PB7	 PB3
  PB8	 PB2
  PB9	 PB1
 PB12	 PB0
