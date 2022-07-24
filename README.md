@@ -7,6 +7,7 @@ This is a collection of projects for the W806 microcontroller.
 
 drop these directories into app , and rename as src folder.
 
+---
 
   : W806 pinout :
 
@@ -76,4 +77,4 @@ PB23-PB26 :  20MHz
 
 PB27 :	80MHz
 
---
+---
