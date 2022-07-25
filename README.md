@@ -13,7 +13,7 @@ drop these src* directories into app , and rename as src folder.
 
 /src.SpiRam6404/ : uses the IPS6404 SPI RAM chip on the SPI bus.
 
-/src.adc_4ch/ : loops through the (3) ADC ports and prints them out.
+/src.adc_4ch/ : loops through the (4) ADC ports and prints them out.
 
 /src.gpio_Ports/ : Prints out the PortA and POrtB as 32bit ints. 
 
