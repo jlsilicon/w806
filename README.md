@@ -9,6 +9,16 @@ drop these src* directories into app , and rename as src folder.
 
 ---
 
+/src.74hc165_PISO/ : Shifts In (8) pins from the 74hc165 Parallel In Serial Out chip.
+
+/src.SpiRam6404/ : uses the IPS6404 SPI RAM chip on the SPI bus.
+
+/src.adc_4ch/ : loops through the (3) ADC ports and prints them out.
+
+/src.gpio_Ports/ : Prints out the PortA and POrtB as 32bit ints. 
+
+---
+
   : W806 pinout :
 
 Gnd	|    | Gnd
