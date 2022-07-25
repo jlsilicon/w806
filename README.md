@@ -15,7 +15,7 @@ drop these src* directories into app , and rename as src folder.
 
 /src.adc_4ch/ : loops through the (4) ADC ports and prints them out.
 
-/src.gpio_Ports/ : Prints out the PortA and POrtB as 32bit ints. 
+/src.gpio_Ports/ : Prints out the PortA and PortB as 32bit ints. 
 
 ---
 
