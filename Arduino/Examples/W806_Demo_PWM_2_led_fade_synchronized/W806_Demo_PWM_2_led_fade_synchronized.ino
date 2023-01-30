@@ -103,6 +103,7 @@ static void PWM_Init(PWM_HandleTypeDef *hpwm, uint32_t channel)
     HAL_PWM_Init(hpwm);
 }
 
+/*
 void Error_Handler(void)
 {
     while (1)
@@ -114,3 +115,5 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
     printf("Wrong parameters value: file %s on line %d\r\n", file, line);
 }
+*/
+
