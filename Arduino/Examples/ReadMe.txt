@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/Hi-LinkDuino/w80x_arduino/main/package_w80x_in
 https://github.com/jlsilicon/w806/blob/main/package_w80x_proxy_index.json 2
 
 menu: Sketch : Include Library : Manage Libraries :
- - search for W806 
+ - search for W806 then click Install btn
 
-Board : search for: w80x_duino
+Board : search for: w80x_duino 
+ - Cpu = w806 
+ - Cpu frequnency = 240MHz
