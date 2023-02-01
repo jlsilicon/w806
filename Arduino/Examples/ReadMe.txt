@@ -1,3 +1,5 @@
+To install W06 Libraries on Arduino IDE :
+
 Arduino IDE : 2.0.3 / 1.8.2
 Processor : W806
 
@@ -14,3 +16,6 @@ menu: Sketch : Include Library : Manage Libraries :
 Board : search for: w80x_duino 
  - Cpu = w806 
  - Cpu frequnency = 240MHz
+
+Further Instructions here :
+  https://www.instructables.com/W806-Microcontroller-Code-Projects/
